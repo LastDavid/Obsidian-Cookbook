@@ -14,7 +14,10 @@ tags: null
 Servings: 4
 
 ## Ingredients
-- [ ] 3 pounds boneless pork ribs- [ ] 1/4 cup BASIC PORK SEASONING: DRY RUB- [ ] 1/2 cup barbecue sauce
+- [ ] 3 pounds boneless pork ribs
+- [ ] 1/4 cup BASIC PORK SEASONING: DRY RUB
+- [ ] 1/2 cup barbecue sauce
+
 
 ## Steps
 1) Preheat oven to 300°
