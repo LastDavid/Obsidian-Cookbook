@@ -14,15 +14,8 @@
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Intel Shelf/Dashboard/Work Dashboard.canvas",
-                    "viewState": {
-                      "x": -2362,
-                      "y": -683.5,
-                      "zoom": -0.6371144280220844
-                    }
-                  },
+                  "type": "empty",
+                  "state": {},
                   "pinned": true
                 }
               },
@@ -31,15 +24,8 @@
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Intel Shelf/Dashboard/p1274-5 Front End Immersion Status.canvas",
-                    "viewState": {
-                      "x": -784.5,
-                      "y": -760,
-                      "zoom": -0.19835872913678979
-                    }
-                  },
+                  "type": "empty",
+                  "state": {},
                   "pinned": true
                 }
               },
@@ -48,15 +34,8 @@
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "canvas",
-                  "state": {
-                    "file": "Intel Shelf/Dashboard/p1222 Front End Immersion Status.canvas",
-                    "viewState": {
-                      "x": -497.5,
-                      "y": -672.5,
-                      "zoom": -0.40035238588327515
-                    }
-                  },
+                  "type": "empty",
+                  "state": {},
                   "pinned": true
                 }
               },
@@ -65,16 +44,23 @@
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Intel Shelf/Dashboard/Master Pager Log.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "pinned": true
                 }
+              },
+              {
+                "id": "c6a05eddb4d771b6",
+                "type": "leaf",
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "Cookbook/Recipes db.md"
+                  }
+                }
               }
-            ]
+            ],
+            "currentTab": 4
           }
         ],
         "direction": "vertical"
@@ -139,7 +125,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Intel Shelf/Dashboard/Work Dashboard.canvas"
+                    "file": "Cookbook/Recipes db.md"
                   }
                 }
               }
@@ -201,7 +187,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Intel Shelf/Dashboard/Work Dashboard.canvas",
+                    "file": "Cookbook/Recipes db.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -218,7 +204,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Intel Shelf/Dashboard/Work Dashboard.canvas",
+                    "file": "Cookbook/Recipes db.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -246,10 +232,12 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "80a9db91df654bd2",
+      "active": "c6a05eddb4d771b6",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
-          "/"
+          "/",
+          "Cookbook",
+          "Cookbook/Recipes"
         ]
       }
     }
