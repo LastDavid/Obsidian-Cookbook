@@ -90,7 +90,7 @@ columns:
       - { label: "Preparation", value: "Preparation", color: "hsl(324, 95%, 90%)"}
       - { label: "Drink", value: "Drink", color: "hsl(47, 95%, 90%)"}
       - { label: "Breakfast", value: "Breakfast", color: "hsl(141, 95%, 90%)"}
-      - { label: "", value: "", color: "hsl(345, 95%, 90%)"}
+      - { label: "", value: "", color: "hsl(41, 95%, 90%)"}
     config:
       enable_media_view: true
       link_alias_enabled: true
