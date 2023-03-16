@@ -10,46 +10,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "2612f33ee4986ce0",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "pinned": true
-                }
-              },
-              {
-                "id": "884dc8ebc16bfc19",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "pinned": true
-                }
-              },
-              {
-                "id": "7594fa3c4607176b",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "pinned": true
-                }
-              },
-              {
-                "id": "7b9ca3c513216d26",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "pinned": true
-                }
-              },
-              {
                 "id": "c6a05eddb4d771b6",
                 "type": "leaf",
                 "state": {
@@ -59,8 +19,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 4
+            ]
           }
         ],
         "direction": "vertical"
@@ -232,7 +191,7 @@
           "workspaces-plus:Manage workspaces": false
         }
       },
-      "active": "c6a05eddb4d771b6",
+      "active": "80a9db91df654bd2",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "/",
