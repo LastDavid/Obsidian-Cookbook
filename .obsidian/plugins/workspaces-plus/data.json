@@ -1,0 +1,38 @@
+{
+  "showInstructions": true,
+  "showDeletePrompt": true,
+  "saveOnSwitch": false,
+  "saveOnChange": false,
+  "workspaceSettings": false,
+  "systemDarkMode": true,
+  "globalSettings": {
+    "accentColor": "#00c800",
+    "interfaceFontFamily": "Intel Clear,Inter",
+    "textFontFamily": "Intel Clear,Inter",
+    "enabledCssSnippets": [
+      "Expanded Checkboxes",
+      "Check box",
+      "LastDavid",
+      "My Check box"
+    ],
+    "readableLineLength": false,
+    "spellcheck": true,
+    "promptDelete": false,
+    "alwaysUpdateLinks": true,
+    "showUnsupportedFiles": true,
+    "newFileLocation": "current",
+    "newFileFolderPath": "Personal Notes",
+    "attachmentFolderPath": "./",
+    "userIgnoreFilters": [
+      "zz_Templates/"
+    ],
+    "showLineNumber": false,
+    "showInlineTitle": false
+  },
+  "activeWorkspaceDesktop": "Home",
+  "activeWorkspaceMobile": "",
+  "reloadLivePreview": false,
+  "workspaceSwitcherRibbon": true,
+  "modeSwitcherRibbon": false,
+  "replaceNativeRibbon": false
+}

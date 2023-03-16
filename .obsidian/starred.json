@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "title": "Home",
+      "path": "Intel Shelf/Dashboard/Work Dashboard.canvas"
+    },
+    {
+      "type": "file",
+      "title": "Master Pager Log",
+      "path": "Intel Shelf/Dashboard/Master Pager Log.md"
+    },
+    {
+      "type": "file",
+      "title": "Todays Agenda",
+      "path": "Intel Shelf/Dashboard/Todays Agenda.md"
+    },
+    {
+      "type": "file",
+      "title": "p1222 Front End Immersion Status",
+      "path": "Intel Shelf/Dashboard/p1222 Front End Immersion Status.canvas"
+    },
+    {
+      "type": "file",
+      "title": "Master Plan",
+      "path": "Personal Shelf/Master Plan.md"
+    },
+    {
+      "type": "file",
+      "title": "Shared Drives",
+      "path": "Intel Shelf/Pocket Notes/Shared Drives.canvas"
+    },
+    {
+      "type": "file",
+      "title": "Intel Dictionary",
+      "path": "Intel Shelf/Intel Dictionary.md"
+    },
+    {
+      "type": "file",
+      "title": "Project Tracking",
+      "path": "Intel Shelf/Projects/Project Tracking.md"
+    }
+  ]
+}

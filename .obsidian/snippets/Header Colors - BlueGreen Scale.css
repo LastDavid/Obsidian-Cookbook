@@ -1,0 +1,50 @@
+
+/* 
+    Modify the Color of Headers in 
+        MardDown
+        Canvas
+        Reading Mode
+        Preview and Edit Modes
+*/
+
+.HyperMD-header-1,
+.inline-title[data-level='1'], 
+.markdown-rendered h1, 
+.HyperMD-list-line .cm-header-1 {
+    color: #009fbf; /* HSV 190 100 75 */
+}
+
+.HyperMD-header-2,
+.inline-title[data-level='2'], 
+.markdown-rendered h2, 
+.HyperMD-list-line .cm-header-2 {
+    color: #26a6bf; /* HSV 190 80 75 */
+}
+
+.HyperMD-header-3,
+.inline-title[data-level='3'], 
+.markdown-rendered h3, 
+.HyperMD-list-line .cm-header-3 {
+    color: #4dacbf; /* HSV 190 60 75 */
+}
+
+.HyperMD-header-4,
+.inline-title[data-level='4'], 
+.markdown-rendered h4, 
+.HyperMD-list-line .cm-header-4 {
+    color: #69b1bf; /* HSV 190 45 75 */
+}
+
+.HyperMD-header-5,
+.inline-title[data-level='5'], 
+.markdown-rendered h5, 
+.HyperMD-list-line .cm-header-5 {
+    color: #86b6bf; /* HSV 190 30 75 */
+}
+
+.HyperMD-header-6,
+.inline-title[data-level='6'], 
+.markdown-rendered h6, 
+.HyperMD-list-line .cm-header-6 {
+    color: #a3babf; /* HSV 190 15 75 */
+}

@@ -1,0 +1,196 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "995bf61d4c8536fb",
+        "type": "split",
+        "children": [
+          {
+            "id": "d0f9ce800b7116f0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2650c9a537f41990",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Personal Notes/Home.canvas",
+                    "viewState": {
+                      "x": -479.5,
+                      "y": -447,
+                      "zoom": 0,
+                      "snapToGrid": false
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e4fc79cb7aa59a93",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e6b684bf4c2d3c7",
+            "type": "tabs",
+            "dimension": 61.02430555555556,
+            "children": [
+              {
+                "id": "36daacd29c7ecd2f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "feea8e90fd7f1123",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "7add805a072d6b20",
+            "type": "tabs",
+            "dimension": 18.229166666666664,
+            "children": [
+              {
+                "id": "a62d0a04934ad6d1",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "baacdc5599eb804c",
+            "type": "tabs",
+            "dimension": 20.74652777777778,
+            "children": [
+              {
+                "id": "d3ccd600da84f3fc",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Personal Notes/Home.canvas"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "right": {
+        "id": "f802dfb84c70a846",
+        "type": "split",
+        "children": [
+          {
+            "id": "f68c41b37549137e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "80a9db91df654bd2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "87556a52a90c4083",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "f6e9f749556729f1",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a9068d62cf2f710a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Personal Notes/Home.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c5b73c742c3dfd98",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Personal Notes/Home.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": true,
+          "canvas:Create new canvas": true,
+          "templates:Insert template": true,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": false,
+          "cmdr:New Window": false,
+          "dbfolder:Create a new database table": false,
+          "templater-obsidian:Templater": false
+        }
+      },
+      "active": "2650c9a537f41990",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "/",
+          "Personal Notes",
+          "Personal Notes/Images"
+        ]
+      }
+    }
+  },
+  "active": "Home"
+}

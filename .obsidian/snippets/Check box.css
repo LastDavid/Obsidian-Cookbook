@@ -1,0 +1,11 @@
+/* Red and Green Almost Round Checkboxes */
+input[type=checkbox] {
+  vertical-align: top;
+  border-radius: 40%;
+  background-color: #d0686831;
+  border: 1px solid #d068688f;
+}
+input[type=checkbox]:checked {
+  background-color: #68d06887;
+  border: 1px solid #68d0688f;
+}

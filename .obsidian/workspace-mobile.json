@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b36a927156bd4ac8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fb8586d13a28afd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a578d6b6ea0d57c5",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a0e5e6fbb33b077c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f5493bb7c0fbf5d0",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "974b6a820792fda5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "46c2587d2a050823",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "09c2290e605c02b4",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "51975d5b2c05ab26",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "5ff4579113c6951c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "bd2b592697add220",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "7fc120455d3d213c",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "234876c5426c15ee",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "cmdr:New Window": false,
+      "dbfolder:Create a new database table": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "janitor:Janitor: scan vault": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": false,
+      "workspaces:Manage workspace layouts": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a578d6b6ea0d57c5",
+  "lastOpenFiles": [
+    "Personal Shelf/Master Plan.md",
+    "/Personal Shelf/Master Plan.md",
+    "Untitled.md",
+    "Personal Shelf/The Daily Refuel/From the Solidity Servey.md",
+    "Personal Shelf/The Daily Refuel/Anthony Sassano - The Daily Gwei.md",
+    "Personal Shelf/The Daily Refuel/Alteratives to Fire.md",
+    "Personal Shelf/Dictionary.md",
+    "Personal Shelf/Cookbook/Weights and Measures/Measures.md",
+    "Personal Shelf/Cookbook/Recipes/Tuna Casserole with Crispy Onions.md",
+    "Personal Shelf/Cookbook/Recipes/Images/Tuna Casserole with Crispy Onions.png",
+    "Personal Shelf/Cookbook/Recipes/Images/Garlic Chicken Rigatoni.png",
+    "Personal Shelf/Cookbook/Recipes/Garlic Chicken Rigatoni.md",
+    "Personal Shelf/Cookbook/Recipes/Atricles/What Does Al Dente Mean.md",
+    "Personal Shelf/Cookbook/Recipe Links.md",
+    "Personal Shelf/Cookbook/Meal Plans/Thanksgiving.md",
+    "Personal Shelf/Cookbook/Ingredient Database.md",
+    "Personal Shelf/Brandon's Information/Annual Reports.md",
+    "Personal Shelf/Bills and Taxes/Trades/Crypto Trade Template.md",
+    "Personal Shelf/Bills and Taxes/Taxes for 2023.md",
+    "Personal Shelf/Bills and Taxes/Taxes for 2022.md",
+    "Personal Shelf/Bills and Taxes/2023/Bills 2023.md",
+    "Intel Shelf/zz_Templates/p1274 NPI Template.md",
+    "Intel Shelf/zz_Templates/p1222 NPI Template.md",
+    "Intel Shelf/zz_Templates/Recipe Template.md",
+    "Intel Shelf/zz_Templates/Project Template.md",
+    "Intel Shelf/zz_Templates/Mistake Template.md",
+    "Intel Shelf/zz_Templates/Meetings Template.md",
+    "Intel Shelf/zz_Templates/EF Rollup Checklist.md",
+    "Coding Shelf/Obsidian/Setup/Expanded Checkboxes.css",
+    "Coding Shelf/Obsidian/Canvas Testing/Task List Canvas.canvas",
+    "Coding Shelf/HTML-CSS/Text box",
+    "Coding Shelf/Comics/Images/xkcd - code lifespan.png",
+    "Personal Shelf/Cookbook/Recipes/Images",
+    "Personal Shelf/Cookbook/Recipes/Atricles",
+    "Personal Shelf/Cookbook/Weights and Measures",
+    "Personal Shelf/Cookbook/Recipes",
+    "Personal Shelf/Cookbook/Meal Plans",
+    "Personal Shelf/Bills and Taxes/Trades",
+    "Personal Shelf/Bills and Taxes/2023",
+    "Personal Shelf/The Daily Refuel"
+  ]
+}

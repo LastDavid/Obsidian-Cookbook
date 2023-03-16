@@ -1,0 +1,18 @@
+/* Style Changes for Dark Theme */
+
+/* Update Dark Theme color values */
+.theme-dark {
+	/* The default is ugly */
+	--text-highlight-bg: rgba(0, 255, 98, 0.4);
+    /* Do not know when this is used - unchanged */
+	--text-highlight-bg-active: rgba(255, 128, 0, 0.4);
+	/* The Default #666666 is too diffcult to read */
+	--text-faint: #c5c5d9;
+}
+
+/* To make the text within Tags easier to read */
+.dataview.inline-field-value,
+.dataview.inline-field-standalone-value {
+    font-weight: normal;
+	font-size: 1.1em;
+}

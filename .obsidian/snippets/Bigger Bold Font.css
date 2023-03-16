@@ -1,0 +1,5 @@
+/* Slightly larger BOLD font to make it stand out better */
+strong, .cm-strong {
+  font-size: 1.1em;
+  color: #c3a1e6; /* HSV 270 30 90 */
+}

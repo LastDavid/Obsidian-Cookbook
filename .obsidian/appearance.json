@@ -1,0 +1,18 @@
+{
+  "accentColor": "#00c800",
+  "interfaceFontFamily": "Intel Clear,Inter",
+  "textFontFamily": "Intel Clear,Inter",
+  "enabledCssSnippets": [
+    "LastDavid",
+    "Expanded Checkboxes",
+    "Check box",
+    "Dark theme highlight color",
+    "OKR Style",
+    "Span underline class",
+    "Bigger Bold Font",
+    "Header Colors",
+    "Header Colors - BlueGreen Scale",
+    "Dark theme changes"
+  ],
+  "theme": "obsidian"
+}

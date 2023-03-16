@@ -1,0 +1,12 @@
+{
+  "inlineCSS": true,
+  "inlineJS": true,
+  "inlineImages": true,
+  "makeNamesWebStyle": true,
+  "includePluginCSS": "obsidian-tasks-plugin",
+  "addDarkModeToggle": true,
+  "includeOutline": false,
+  "customLineWidth": 0,
+  "openAfterExport": true,
+  "lastExportPath": "C:/Users/MDWeiler/OneDrive - Intel Corporation/Desktop/work-dashboard.html"
+}

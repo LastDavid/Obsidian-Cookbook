@@ -1,0 +1,10 @@
+{
+  "findText": "\\t",
+  "replaceText": " | ",
+  "useRegEx": true,
+  "selOnly": true,
+  "caseInsensitive": true,
+  "processLineBreak": true,
+  "processTab": false,
+  "prefillFind": true
+}

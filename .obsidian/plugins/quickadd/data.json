@@ -1,0 +1,111 @@
+{
+  "choices": [
+    {
+      "id": "7bc83685-985b-44f1-b768-23d6cbb0ec14",
+      "name": "Add Pager Task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Intel Shelf/Dashboard/Master Pager Log.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{VALUE:Page Detials}}\\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "# Pager Log",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "66b1bfec-b47a-489c-8cd1-9e519be3ec22",
+      "name": "Add Agenda Task",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Intel Shelf/Dashboard/Todays Agenda.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "{{value:Agenda Task}}\\n"
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## Tasks",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "d74be29a-4570-468b-bf97-9f21fa79c225",
+      "name": "Add New Project",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Intel Shelf/zz_Templates/Project Template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "New Project"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Intel Shelf/Projects/Project Details"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "setFileExistsBehavior": true,
+      "fileExistsMode": "Increment the file name"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "Intel Shelf/zz_Templates",
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true
+  }
+}

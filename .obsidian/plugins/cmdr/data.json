@@ -1,0 +1,83 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": false,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [
+    {
+      "id": "obsidian-checklist-reset:checklist-reset",
+      "icon": "timer-reset",
+      "name": "Checklist Reset: Reset checklists",
+      "mode": "any"
+    }
+  ],
+  "leftRibbon": [
+    {
+      "id": "workspace:move-to-new-window",
+      "icon": "lucide-maximize",
+      "name": "New Window",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [
+    {
+      "id": "workspace:toggle-pin",
+      "icon": "lucide-pin",
+      "name": "Pin",
+      "mode": "any",
+      "color": "#ff8800"
+    },
+    {
+      "id": "quickadd:choice:7bc83685-985b-44f1-b768-23d6cbb0ec14",
+      "icon": "plus-circle",
+      "name": "Add Pager Task",
+      "mode": "desktop"
+    },
+    {
+      "id": "quickadd:choice:66b1bfec-b47a-489c-8cd1-9e519be3ec22",
+      "icon": "flag",
+      "name": "Add Agenda Task",
+      "mode": "desktop"
+    },
+    {
+      "id": "quickadd:choice:d74be29a-4570-468b-bf97-9f21fa79c225",
+      "icon": "layout-list",
+      "name": "New Project",
+      "mode": "desktop"
+    },
+    {
+      "id": "obsidian-git:commit",
+      "icon": "save",
+      "name": "Commit all changes",
+      "mode": "any",
+      "color": "#7139f3"
+    },
+    {
+      "id": "obsidian-git:push2",
+      "icon": "upload-cloud",
+      "name": "git push",
+      "mode": "any",
+      "color": "#7139f3"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

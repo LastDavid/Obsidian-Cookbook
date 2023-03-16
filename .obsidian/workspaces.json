@@ -1,0 +1,258 @@
+{
+  "workspaces": {
+    "Home": {
+      "main": {
+        "id": "995bf61d4c8536fb",
+        "type": "split",
+        "children": [
+          {
+            "id": "1533c437dc57f3c6",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "2612f33ee4986ce0",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Intel Shelf/Dashboard/Work Dashboard.canvas",
+                    "viewState": {
+                      "x": -2362,
+                      "y": -683.5,
+                      "zoom": -0.6371144280220844
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "884dc8ebc16bfc19",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Intel Shelf/Dashboard/p1274-5 Front End Immersion Status.canvas",
+                    "viewState": {
+                      "x": -784.5,
+                      "y": -760,
+                      "zoom": -0.19835872913678979
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "7594fa3c4607176b",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "Intel Shelf/Dashboard/p1222 Front End Immersion Status.canvas",
+                    "viewState": {
+                      "x": -497.5,
+                      "y": -672.5,
+                      "zoom": -0.40035238588327515
+                    }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "7b9ca3c513216d26",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Intel Shelf/Dashboard/Master Pager Log.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e4fc79cb7aa59a93",
+        "type": "split",
+        "children": [
+          {
+            "id": "2e6b684bf4c2d3c7",
+            "type": "tabs",
+            "dimension": 52.60416666666666,
+            "children": [
+              {
+                "id": "36daacd29c7ecd2f",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {}
+                }
+              },
+              {
+                "id": "feea8e90fd7f1123",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#p1274-5",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "7add805a072d6b20",
+            "type": "tabs",
+            "dimension": 26.649305555555557,
+            "children": [
+              {
+                "id": "a62d0a04934ad6d1",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "baacdc5599eb804c",
+            "type": "tabs",
+            "dimension": 20.74652777777778,
+            "children": [
+              {
+                "id": "d3ccd600da84f3fc",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Intel Shelf/Dashboard/Work Dashboard.canvas"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 200,
+        "collapsed": true
+      },
+      "right": {
+        "id": "f802dfb84c70a846",
+        "type": "split",
+        "children": [
+          {
+            "id": "f68c41b37549137e",
+            "type": "tabs",
+            "dimension": 70.74652777777779,
+            "children": [
+              {
+                "id": "80a9db91df654bd2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "87556a52a90c4083",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "da35f97020aa2894",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {}
+                }
+              }
+            ]
+          },
+          {
+            "id": "f6e9f749556729f1",
+            "type": "tabs",
+            "dimension": 29.25347222222222,
+            "children": [
+              {
+                "id": "a9068d62cf2f710a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Intel Shelf/Dashboard/Work Dashboard.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c5b73c742c3dfd98",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Intel Shelf/Dashboard/Work Dashboard.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 260.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "janitor:Janitor: scan vault": false,
+          "cmdr:New Window": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "webpage-html-export:Export Vault to HTML": false,
+          "switcher:Open quick switcher": false,
+          "canvas:Create new canvas": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "dbfolder:Create a new database table": false,
+          "templater-obsidian:Templater": false,
+          "workspaces-plus:Manage workspaces": false
+        }
+      },
+      "active": "80a9db91df654bd2",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "/"
+        ]
+      }
+    }
+  },
+  "active": "Home"
+}

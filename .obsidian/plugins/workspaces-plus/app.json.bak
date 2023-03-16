@@ -1,0 +1,13 @@
+{
+  "readableLineLength": false,
+  "spellcheck": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Personal Notes",
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "Templates/"
+  ]
+}

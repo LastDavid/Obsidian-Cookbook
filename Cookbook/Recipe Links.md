@@ -1,0 +1,29 @@
+# Recipes to check out
+## [Quick Pasta Recipes](https://www.tasteofhome.com/collection/quick-pasta-recipes/)
+- [ ] https://www.tasteofhome.com/recipes/mediterranean-pork-and-orzo/
+- [ ] https://www.tasteofhome.com/recipes/gnocchi-with-mushrooms-and-onion/
+- [ ] https://www.tasteofhome.com/recipes/pizza-in-a-bowl/
+- [ ] https://www.tasteofhome.com/recipes/ham-swiss-baked-penne/
+- [ ] https://www.tasteofhome.com/recipes/one-pot-chicken-pesto-pasta/
+- [ ] https://www.tasteofhome.com/recipes/bow-ties-with-gorgonzola-sauce/
+- [ ] https://www.tasteofhome.com/recipes/spaghetti-meatball-skillet-supper/
+- [ ] https://www.tasteofhome.com/recipes/garlic-chicken-rigatoni/
+- [ ] https://www.tasteofhome.com/recipes/one-pot-chilighetti/
+- [ ] https://www.tasteofhome.com/recipes/creamy-sausage-mushroom-rigatoni/
+- [ ] https://www.tasteofhome.com/recipes/parmesan-bow-tie-pasta-with-chicken/
+- [ ] https://www.tasteofhome.com/recipes/angel-hair-with-chicken-cherries/
+- [ ] https://www.tasteofhome.com/recipes/chicken-pepper-alfredo/
+- [ ] https://www.tasteofhome.com/recipes/ginger-veggie-brown-rice-pasta/
+- [ ] https://www.tasteofhome.com/recipes/sausage-skillet-with-pasta-herbs/
+- [ ] https://www.tasteofhome.com/recipes/pork-pancit/
+- [ ] https://www.tasteofhome.com/recipes/one-pot-meaty-spaghetti/
+- [ ] https://www.tasteofhome.com/recipes/ricotta-tomato-corn-pasta/
+- [ ] https://www.tasteofhome.com/recipes/pasta-squiggles-with-pumpkin-sauce/
+- [ ] https://www.tasteofhome.com/recipes/white-cheddar-mac-cheese/
+- [ ] https://www.tasteofhome.com/recipes/shrimp-pomodoro/ -- With chicken
+- [ ] https://www.tasteofhome.com/recipes/bow-ties-with-sausage-asparagus/
+- [ ] https://www.tasteofhome.com/recipes/weeknight-pasta-squiggles/
+- [ ] https://www.tasteofhome.com/recipes/marrakesh-chicken-couscous/
+- [ ] https://www.tasteofhome.com/recipes/lemony-shrimp-snow-pea-pasta/ -- With chicken
+- [ ] https://www.tasteofhome.com/recipes/whole-grain-chow-mein/
+- [ ] 

@@ -1,0 +1,80 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "native",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "🔥",
+      "🆕",
+      "MyIntelLogoEnergyblue72pxv2",
+      "✔",
+      "MyIntelLogoEnergyblue72pxV2",
+      "💲",
+      "MyMdbook",
+      "MyObsidian",
+      "😥",
+      "MyMarkdown",
+      "MyEthereum",
+      "MyEthereumEthLogo",
+      "MyHtml5",
+      "MyGit",
+      "MyAutohotkey"
+    ],
+    "recentlyUsedIconsSize": 15,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    }
+  },
+  "Cookbook": "🥣",
+  "zz_Templates/Recipe Template.md": "🥣",
+  "Intel Shelf": "MyIntelLogoEnergyblue72pxv2",
+  "Coding Shelf": "MyGliderV2",
+  "Intel Shelf/Intel Notes": {
+    "iconName": "MyIntelLogoEnergyblue72pxv2",
+    "inheritanceIcon": "MyIntelLogoEnergyblue72pxv2"
+  },
+  "Intel Shelf/Pocket Notes": {
+    "iconName": "MyIntelLogoEnergyblue72pxv2",
+    "inheritanceIcon": "MyIntelLogoEnergyblue72pxv2"
+  },
+  "Intel Shelf/Professional Development": {
+    "iconName": "MyIntelLogoEnergyblue72pxv2",
+    "inheritanceIcon": "MyIntelLogoEnergyblue72pxv2"
+  },
+  "Intel Shelf/Projects": {
+    "iconName": "MyIntelLogoEnergyblue72pxv2",
+    "inheritanceIcon": "MyIntelLogoEnergyblue72pxv2"
+  },
+  "Personal Shelf": "MyHackaday",
+  "Coding Shelf/Accounts/Metamask Brave Extension.md": "MyBrave",
+  "Coding Shelf/Accounts/Stack Overflow.md": "MyStackoverflow",
+  "Coding Shelf/AutoHotkey": "MyAutohotkey",
+  "Coding Shelf/Git": "MyGit",
+  "Coding Shelf/HTML-CSS": "MyHtml5",
+  "Coding Shelf/Web3": "MyEthereum",
+  "Coding Shelf/Markdown.md": "MyMarkdown",
+  "Coding Shelf/Stop Sad Code.md": "😥",
+  "zz_Templates": "MyMdbook",
+  "zz_Templates/Daily Tasks Template.md": "MyIntelLogoEnergyblue72pxV2",
+  "zz_Templates/EF Rollup Checklist.md": "MyIntelLogoEnergyblue72pxV2",
+  "Personal Shelf/Bills and Taxes": "💲",
+  "Coding Shelf/Obsidian": "MyObsidian",
+  "Coding Shelf/Obsidian/Obsidian Setup.md": "MyObsidian",
+  "Coding Shelf/Obsidian/Dataview Plugin": "MyObsidian",
+  "Intel Shelf/NPIs": {
+    "iconName": "MyIntelLogoEnergyblue72pxv2",
+    "inheritanceIcon": "🆕"
+  },
+  "Intel Shelf/Intel Notes/p1274-5 FCC Process Flow": "MyIntelLogoEnergyblue72pxv2",
+  "zz_Templates/p1222 NPI Template.md": "MyIntelLogoEnergyblue72pxv2",
+  "zz_Templates/p1274 NPI Template.md": "MyIntelLogoEnergyblue72pxv2",
+  "zz_Templates/Project Template.md": "MyIntelLogoEnergyblue72pxv2",
+  "Master Plan.md": "🔥",
+  "Intel Shelf/Intel Dictionary.md": "MyIntelLogoEnergyblue72pxv2"
+}

@@ -1,0 +1,25 @@
+
+/* Modify the Color of Headers in both Preview and Reading mode */
+.markdown-rendered h1, .cm-header-1 {
+    color: #7300e6; /* HSV 270 100 90 */
+}
+
+.markdown-rendered h2, .cm-header-2 {
+    color: #8a2ee6; /* HSV 270 80 90 */
+}
+
+.markdown-rendered h3, .cm-header-3 {
+    color: #a15ce6; /* HSV 270 60 90 */
+}
+
+.markdown-rendered h4, .cm-header-4 {
+    color: #b27ee6; /* HSV 270 45 90 */
+}
+
+.markdown-rendered h5, .cm-header-5 {
+    color: #c3a1e6; /* HSV 270 30 90 */
+}
+
+.markdown-rendered h6, .cm-header-6 {
+    color: #d4c3e6; /* HSV 270 15 90 */
+}

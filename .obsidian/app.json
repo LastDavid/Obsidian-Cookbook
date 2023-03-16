@@ -1,0 +1,15 @@
+{
+  "readableLineLength": false,
+  "spellcheck": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "Personal Notes",
+  "attachmentFolderPath": "./",
+  "userIgnoreFilters": [
+    "zz_Templates/"
+  ],
+  "showLineNumber": false,
+  "showInlineTitle": false
+}

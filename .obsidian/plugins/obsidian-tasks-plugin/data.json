@@ -1,0 +1,151 @@
+{
+  "globalFilter": "",
+  "removeGlobalFilter": false,
+  "setDoneDate": false,
+  "autoSuggestInEditor": false,
+  "autoSuggestMinMatch": 0,
+  "autoSuggestMaxItems": 6,
+  "provideAccessKeys": false,
+  "useFilenameAsScheduledDate": false,
+  "filenameAsDateFolders": [],
+  "statusSettings": {
+    "coreStatuses": [
+      {
+        "symbol": " ",
+        "name": "Todo",
+        "nextStatusSymbol": "/",
+        "availableAsCommand": true,
+        "type": "TODO"
+      },
+      {
+        "symbol": "x",
+        "name": "Done",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": true,
+        "type": "DONE"
+      }
+    ],
+    "customStatuses": [
+      {
+        "symbol": "/",
+        "name": "Started",
+        "nextStatusSymbol": "X",
+        "availableAsCommand": true,
+        "type": "IN_PROGRESS"
+      },
+      {
+        "symbol": "X",
+        "name": "Completed",
+        "nextStatusSymbol": "T",
+        "availableAsCommand": false,
+        "type": "DONE"
+      },
+      {
+        "symbol": "T",
+        "name": "Delayed",
+        "nextStatusSymbol": ">",
+        "availableAsCommand": false,
+        "type": "IN_PROGRESS"
+      },
+      {
+        "symbol": ">",
+        "name": "Forward",
+        "nextStatusSymbol": "-",
+        "availableAsCommand": false,
+        "type": "DONE"
+      },
+      {
+        "symbol": "-",
+        "name": "Binned",
+        "nextStatusSymbol": "~",
+        "availableAsCommand": false,
+        "type": "CANCELLED"
+      },
+      {
+        "symbol": "~",
+        "name": "Conflict",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "?",
+        "name": "Question",
+        "nextStatusSymbol": "A",
+        "availableAsCommand": false,
+        "type": "TODO"
+      },
+      {
+        "symbol": "A",
+        "name": "Answered",
+        "nextStatusSymbol": "!",
+        "availableAsCommand": false,
+        "type": "DONE"
+      },
+      {
+        "symbol": "!",
+        "name": "Important",
+        "nextStatusSymbol": "?",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "P",
+        "name": "Pro",
+        "nextStatusSymbol": "C",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "C",
+        "name": "Con",
+        "nextStatusSymbol": "P",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "i",
+        "name": "Idea",
+        "nextStatusSymbol": "N",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "N",
+        "name": "Note",
+        "nextStatusSymbol": "I",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "I",
+        "name": "Information",
+        "nextStatusSymbol": "E",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "E",
+        "name": "Example",
+        "nextStatusSymbol": "H",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "H",
+        "name": "Favorite",
+        "nextStatusSymbol": "i",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      }
+    ]
+  },
+  "features": {
+    "INTERNAL_TESTING_ENABLED_BY_DEFAULT": true
+  },
+  "generalSettings": {},
+  "headingOpened": {
+    "Core Statuses": true,
+    "Custom Statuses": true
+  }
+}

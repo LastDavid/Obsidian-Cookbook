@@ -1,0 +1,31 @@
+{
+  "immediateReplace": true,
+  "suggester": true,
+  "historyPriority": true,
+  "historyLimit": 100,
+  "history": [
+    ":arrow_right_hook:",
+    ":black_large_square:",
+    ":calendar:",
+    ":telephone_receiver:",
+    ":pager:",
+    ":email:",
+    ":spiral_notepad:",
+    ":notebook:",
+    ":file_folder:",
+    ":floppy_disk:",
+    ":smiley:",
+    ":name_badge:",
+    ":arrow_up:",
+    ":stop_sign:",
+    ":alarm_clock:",
+    ":exclamation:",
+    ":red_square:",
+    ":point_down:",
+    ":waffle:",
+    ":arrow_down:",
+    ":small_red_triangle_down:",
+    ":crossed_fingers:",
+    ":gear:"
+  ]
+}
